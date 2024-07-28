@@ -1,1 +1,6 @@
 # LeetCode
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./cpp/LongestPalindromicSubstring.cpp)|Medium|
