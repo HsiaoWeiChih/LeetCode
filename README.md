@@ -9,3 +9,4 @@
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](./cpp/integer-to-roman.cpp)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| [C++](./cpp/sqrtx.cpp)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](./cpp/remove-duplicates-from-sorted-list.cpp)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./cpp/binary-tree-inorder-traversal.cpp)|Easy|
