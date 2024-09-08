@@ -15,3 +15,4 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./cpp/binary-tree-inorder-traversal.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./cpp/minimum-depth-of-binary-tree.cpp)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)| [C++](./cpp/path-sum.cpp)|Easy|
