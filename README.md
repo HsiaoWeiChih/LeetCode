@@ -21,3 +21,4 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [C++](./cpp/path-sum.cpp)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./cpp/binary-tree-preorder-traversal.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [C++](./cpp/excel-sheet-column-title.cpp)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](./cpp/excel-sheet-column-number.cpp)|Easy|
