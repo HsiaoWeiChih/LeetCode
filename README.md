@@ -9,6 +9,7 @@
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](./cpp/integer-to-roman.cpp)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./cpp/3sum.cpp)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./cpp/letter-combinations-of-a-phone-number.cpp)|Medium|
+|31|[3SNext Permutationum](https://leetcode.com/problems/next-permutation/)| [C++](./cpp/next-permutation.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./cpp/search-in-rotated-sorted-array.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./cpp/combination-sum.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./cpp/jump-game-ii.cpp)|Medium|
