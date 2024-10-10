@@ -16,6 +16,7 @@
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./cpp/jump-game-ii.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./cpp/rotate-list.cpp)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./cpp/sqrtx.cpp)|Easy|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./cpp/edit-distance.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./cpp/remove-duplicates-from-sorted-list.cpp)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./cpp/binary-tree-inorder-traversal.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
