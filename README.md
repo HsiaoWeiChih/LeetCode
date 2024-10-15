@@ -4,6 +4,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./cpp/two-sum.cpp)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./cpp/add-two-numbers.cpp)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./cpp/LongestPalindromicSubstring.cpp)|Medium|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./cpp/zigzag-conversion.cpp)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./cpp/container-with-most-water.cpp)|Medium|
