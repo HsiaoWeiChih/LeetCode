@@ -33,4 +33,4 @@
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [C++](./cpp/excel-sheet-column-title.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](./cpp/majority-element.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](./cpp/excel-sheet-column-number.cpp)|Easy|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [PL/SQL](./cpp/combine-two-tables.sql)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [PL/SQL](./sql/combine-two-tables.sql)|Easy|
