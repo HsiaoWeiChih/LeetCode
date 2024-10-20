@@ -13,6 +13,7 @@
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./cpp/3sum.cpp)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C++](./cpp/3sum-closest.cpp)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./cpp/letter-combinations-of-a-phone-number.cpp)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./cpp/generate-parentheses.cpp)|Medium|
 |31|[3SNext Permutationum](https://leetcode.com/problems/next-permutation/)| [C++](./cpp/next-permutation.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./cpp/search-in-rotated-sorted-array.cpp)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](./cpp/find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium|
