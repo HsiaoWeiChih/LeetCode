@@ -8,6 +8,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./cpp/longest-substring-without-repeating-characters.cpp)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./cpp/LongestPalindromicSubstring.cpp)|Medium|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./cpp/zigzag-conversion.cpp)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](./cpp/reverse-integer.cpp)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./cpp/container-with-most-water.cpp)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](./cpp/integer-to-roman.cpp)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./cpp/3sum.cpp)|Medium|
