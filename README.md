@@ -42,3 +42,4 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](./cpp/excel-sheet-column-number.cpp)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [PL/SQL](./sql/combine-two-tables.sql)|Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [PL/SQL](./sql/employees-earning-more-than-their-managers.sql)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [PL/SQL](./sql/duplicate-emails.sql)|Easy|
