@@ -25,6 +25,7 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](./cpp/find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./cpp/combination-sum.cpp)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./cpp/combination-sum-ii.cpp)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](./cpp/multiply-strings.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./cpp/jump-game-ii.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./cpp/rotate-list.cpp)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./cpp/sqrtx.cpp)|Easy|
