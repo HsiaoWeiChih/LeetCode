@@ -46,3 +46,4 @@
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [PL/SQL](./sql/employees-earning-more-than-their-managers.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [PL/SQL](./sql/duplicate-emails.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)| [PL/SQL](./sql/customers-who-never-order.sql)|Easy|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./sql/valid-phone-numbers.sh)|Easy|
