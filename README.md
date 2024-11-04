@@ -50,3 +50,4 @@
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [PL/SQL](./sql/duplicate-emails.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)| [PL/SQL](./sql/customers-who-never-order.sql)|Easy|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./sql/valid-phone-numbers.sh)|Easy|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./sql/tenth-line.sh)|Easy|
