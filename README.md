@@ -52,3 +52,4 @@
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./sql/valid-phone-numbers.sh)|Easy|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./sql/tenth-line.sh)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [PL/SQL](./sql/delete-duplicate-emails.sql)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [PL/SQL](./sql/rising-temperature.sql)|Easy|
