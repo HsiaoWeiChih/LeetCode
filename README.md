@@ -22,6 +22,7 @@
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](./cpp/4sum.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./cpp/remove-nth-node-from-end-of-list.cpp)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./cpp/valid-parentheses.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./cpp/merge-two-sorted-lists.cpp)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./cpp/generate-parentheses.cpp)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./cpp/swap-nodes-in-pairs.cpp)|Medium|
 |31|[3SNext Permutationum](https://leetcode.com/problems/next-permutation/)| [C++](./cpp/next-permutation.cpp)|Medium|
