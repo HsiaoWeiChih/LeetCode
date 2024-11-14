@@ -55,3 +55,4 @@
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./sql/tenth-line.sh)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [PL/SQL](./sql/delete-duplicate-emails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [PL/SQL](./sql/rising-temperature.sql)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](./cpp/happy-number.cpp)|Easy|
