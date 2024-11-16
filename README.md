@@ -57,3 +57,4 @@
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [PL/SQL](./sql/delete-duplicate-emails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [PL/SQL](./sql/rising-temperature.sql)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](./cpp/happy-number.cpp)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./cpp/remove-linked-list-elements.cpp)|Easy|
