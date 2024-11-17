@@ -33,6 +33,7 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./cpp/combination-sum-ii.cpp)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](./cpp/multiply-strings.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./cpp/jump-game-ii.cpp)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](./cpp/permutations.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./cpp/rotate-list.cpp)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./cpp/sqrtx.cpp)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./cpp/edit-distance.cpp)|Medium|
