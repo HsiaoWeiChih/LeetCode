@@ -39,6 +39,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](./cpp/group-anagrams.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./cpp/powx-n.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./cpp/spiral-matrix.cpp)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [C++](./cpp/jump-game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./cpp/rotate-list.cpp)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./cpp/sqrtx.cpp)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./cpp/edit-distance.cpp)|Medium|
