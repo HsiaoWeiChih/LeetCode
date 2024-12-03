@@ -67,3 +67,4 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./cpp/remove-linked-list-elements.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C++](./cpp/isomorphic-strings.cpp)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./cpp/contains-duplicate-ii.cpp)|Easy|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](./cpp/count-complete-tree-nodes.cpp)|Easy|
