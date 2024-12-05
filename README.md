@@ -27,6 +27,7 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./cpp/swap-nodes-in-pairs.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./cpp/remove-duplicates-from-sorted-array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./cpp/remove-element.cpp)|Easy|
+|28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)| [C++](./cpp/find-the-index-of-the-first-occurrence-in-a-string.cpp)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C++](./cpp/divide-two-integers.cpp)|Medium|
 |31|[3SNext Permutationum](https://leetcode.com/problems/next-permutation/)| [C++](./cpp/next-permutation.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./cpp/search-in-rotated-sorted-array.cpp)|Medium|
