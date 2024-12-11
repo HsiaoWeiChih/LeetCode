@@ -70,3 +70,4 @@
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C++](./cpp/isomorphic-strings.cpp)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./cpp/contains-duplicate-ii.cpp)|Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](./cpp/count-complete-tree-nodes.cpp)|Easy|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C++](./cpp/implement-stack-using-queues.cpp)|Easy|
