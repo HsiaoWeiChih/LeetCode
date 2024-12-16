@@ -34,6 +34,7 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](./cpp/find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./cpp/search-insert-position.cpp)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [C++](./cpp/valid-sudoku.cpp)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./cpp/count-and-say.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./cpp/combination-sum.cpp)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./cpp/combination-sum-ii.cpp)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](./cpp/multiply-strings.cpp)|Medium|
