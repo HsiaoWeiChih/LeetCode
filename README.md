@@ -40,7 +40,8 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](./cpp/multiply-strings.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./cpp/jump-game-ii.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](./cpp/permutations.cpp)|Medium|
-|46|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](./cpp/permutations-ii.cpp)|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](./cpp/permutations-ii.cpp)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](./cpp/rotate-image.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](./cpp/group-anagrams.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./cpp/powx-n.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./cpp/spiral-matrix.cpp)|Medium|
