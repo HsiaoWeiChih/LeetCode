@@ -79,3 +79,4 @@
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](./cpp/count-complete-tree-nodes.cpp)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C++](./cpp/implement-stack-using-queues.cpp)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [C++](./cpp/invert-binary-tree.cpp)|Easy|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [C++](./cpp/summary-ranges.cpp)|Easy|
