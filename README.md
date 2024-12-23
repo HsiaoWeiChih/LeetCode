@@ -50,6 +50,7 @@
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./cpp/insert-interval.cpp)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](./cpp/spiral-matrix-ii.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./cpp/rotate-list.cpp)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./cpp/unique-paths.cpp)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./cpp/sqrtx.cpp)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./cpp/edit-distance.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./cpp/remove-duplicates-from-sorted-list.cpp)|Easy|
