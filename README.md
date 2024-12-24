@@ -81,3 +81,4 @@
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C++](./cpp/implement-stack-using-queues.cpp)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [C++](./cpp/invert-binary-tree.cpp)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [C++](./cpp/summary-ranges.cpp)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](./cpp/power-of-two.cpp)|Easy|
