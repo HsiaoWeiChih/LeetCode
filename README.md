@@ -6,6 +6,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./cpp/two-sum.cpp)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./cpp/add-two-numbers.cpp)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./cpp/longest-substring-without-repeating-characters.cpp)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./cpp/median-of-two-sorted-arrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./cpp/LongestPalindromicSubstring.cpp)|Medium|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./cpp/zigzag-conversion.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](./cpp/reverse-integer.cpp)|Medium|
