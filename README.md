@@ -53,6 +53,7 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./cpp/rotate-list.cpp)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./cpp/unique-paths.cpp)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./cpp/unique-paths-ii.cpp)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./cpp/minimum-path-sum.cpp)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./cpp/sqrtx.cpp)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./cpp/edit-distance.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./cpp/remove-duplicates-from-sorted-list.cpp)|Easy|
