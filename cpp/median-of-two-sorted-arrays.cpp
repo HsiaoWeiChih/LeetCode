@@ -20,7 +20,7 @@ public:
             int index1 = 0;
             int index2 = 0;
             vector<int> tmp;
-            while((index1 + index2 + 1) < (size1+ size2 + 1)/2)
+            while(index1 < size1 || index2 < size2)
             {
                 if(index1 >= size1)
                 {
