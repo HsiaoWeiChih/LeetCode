@@ -45,6 +45,7 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](./cpp/rotate-image.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](./cpp/group-anagrams.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./cpp/powx-n.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./cpp/maximum-subarray.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./cpp/spiral-matrix.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| [C++](./cpp/jump-game.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./cpp/merge-intervals.cpp)|Medium|
