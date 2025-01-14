@@ -87,3 +87,4 @@
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](./cpp/power-of-two.cpp)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](./cpp/implement-queue-using-stacks.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](./cpp/binary-tree-paths.cpp)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./cpp/add-digits.cpp)|Easy|
