@@ -89,3 +89,4 @@
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](./cpp/implement-queue-using-stacks.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](./cpp/binary-tree-paths.cpp)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./cpp/add-digits.cpp)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./cpp/ugly-number.cpp)|Easy|
