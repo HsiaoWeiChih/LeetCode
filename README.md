@@ -91,3 +91,4 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](./cpp/binary-tree-paths.cpp)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./cpp/add-digits.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./cpp/ugly-number.cpp)|Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [C++](./cpp/word-pattern.cpp)|Easy|
