@@ -78,7 +78,13 @@
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./cpp/minimum-depth-of-binary-tree.cpp)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [C++](./cpp/path-sum.cpp)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./cpp/pascals-triangle.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./cpp/pascals-triangle-ii.cpp)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./cpp/best-time-to-buy-and-sell-stock.cpp)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./cpp/best-time-to-buy-and-sell-stock-ii.cpp)|Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](./cpp/valid-palindrome.cpp)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](./cpp/single-number.cpp)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./cpp/linked-list-cycle.cpp)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./cpp/binary-tree-preorder-traversal.cpp)|Easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./cpp/binary-tree-postorder-traversal.cpp)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](./cpp/intersection-of-two-linked-lists.cpp)|Easy|
