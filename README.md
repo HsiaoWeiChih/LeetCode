@@ -87,6 +87,7 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./cpp/linked-list-cycle.cpp)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./cpp/binary-tree-preorder-traversal.cpp)|Easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./cpp/binary-tree-postorder-traversal.cpp)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [C++](./cpp/min-stack.cpp)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](./cpp/intersection-of-two-linked-lists.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [C++](./cpp/excel-sheet-column-title.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](./cpp/majority-element.cpp)|Easy|
@@ -95,12 +96,16 @@
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [PL/SQL](./sql/employees-earning-more-than-their-managers.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [PL/SQL](./sql/duplicate-emails.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)| [PL/SQL](./sql/customers-who-never-order.sql)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./cpp/rotate-array.cpp)|Medium|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [C++](./cpp/reverse-bits.cpp)|Easy|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./sql/valid-phone-numbers.sh)|Easy|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./sql/tenth-line.sh)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [PL/SQL](./sql/delete-duplicate-emails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [PL/SQL](./sql/rising-temperature.sql)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./cpp/house-robber.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](./cpp/happy-number.cpp)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./cpp/remove-linked-list-elements.cpp)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)| [C++](./cpp/count-primes.cpp)|Medium|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C++](./cpp/isomorphic-strings.cpp)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./cpp/contains-duplicate-ii.cpp)|Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](./cpp/count-complete-tree-nodes.cpp)|Easy|
