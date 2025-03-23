@@ -50,12 +50,16 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| [C++](./cpp/jump-game.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./cpp/merge-intervals.cpp)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./cpp/insert-interval.cpp)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C++](./cpp/length-of-last-word.cpp)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](./cpp/spiral-matrix-ii.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./cpp/rotate-list.cpp)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./cpp/unique-paths.cpp)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./cpp/unique-paths-ii.cpp)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./cpp/minimum-path-sum.cpp)|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./cpp/plus-one.cpp)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](./cpp/add-binary.cpp)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./cpp/sqrtx.cpp)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./cpp/climbing-stairs.cpp)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./cpp/simplify-path.cpp)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./cpp/edit-distance.cpp)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./cpp/set-matrix-zeroes.cpp)|Medium|
@@ -63,7 +67,10 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [C++](./cpp/sort-colors.cpp)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)| [C++](./cpp/combinations.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./cpp/remove-duplicates-from-sorted-list.cpp)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./cpp/merge-sorted-array.cpp)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./cpp/binary-tree-inorder-traversal.cpp)|Easy|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [C++](./cpp/validate-binary-search-tree.cpp)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [C++](./cpp/same-tree.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./cpp/minimum-depth-of-binary-tree.cpp)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [C++](./cpp/path-sum.cpp)|Easy|
