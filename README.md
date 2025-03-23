@@ -71,6 +71,10 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./cpp/binary-tree-inorder-traversal.cpp)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [C++](./cpp/validate-binary-search-tree.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [C++](./cpp/same-tree.cpp)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./cpp/symmetric-tree.cpp)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [C++](./cpp/binary-tree-level-order-traversal.cpp)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./cpp/maximum-depth-of-binary-tree.cpp)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [C++](./cpp/convert-sorted-array-to-binary-search-tree.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./cpp/minimum-depth-of-binary-tree.cpp)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [C++](./cpp/path-sum.cpp)|Easy|
