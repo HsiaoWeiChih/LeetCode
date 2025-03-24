@@ -98,6 +98,7 @@
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)| [PL/SQL](./sql/customers-who-never-order.sql)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./cpp/rotate-array.cpp)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [C++](./cpp/reverse-bits.cpp)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [C++](./cpp/number-of-1-bits.cpp)|Easy|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./sql/valid-phone-numbers.sh)|Easy|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./sql/tenth-line.sh)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [PL/SQL](./sql/delete-duplicate-emails.sql)|Easy|
@@ -107,6 +108,8 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./cpp/remove-linked-list-elements.cpp)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)| [C++](./cpp/count-primes.cpp)|Medium|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C++](./cpp/isomorphic-strings.cpp)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./cpp/reverse-linked-list.cpp)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](./cpp/contains-duplicate.cpp)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./cpp/contains-duplicate-ii.cpp)|Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](./cpp/count-complete-tree-nodes.cpp)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C++](./cpp/implement-stack-using-queues.cpp)|Easy|
@@ -114,6 +117,9 @@
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [C++](./cpp/summary-ranges.cpp)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](./cpp/power-of-two.cpp)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](./cpp/implement-queue-using-stacks.cpp)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](./cpp/palindrome-linked-list.cpp)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [C++](./cpp/delete-node-in-a-linked-list.cpp)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./cpp/valid-anagram.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](./cpp/binary-tree-paths.cpp)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./cpp/add-digits.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./cpp/ugly-number.cpp)|Easy|
