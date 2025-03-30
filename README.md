@@ -125,4 +125,14 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](./cpp/binary-tree-paths.cpp)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./cpp/add-digits.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./cpp/ugly-number.cpp)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [C++](./cpp/missing-number.cpp)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./cpp/first-bad-version.cpp)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](./cpp/move-zeroes.cpp)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [C++](./cpp/word-pattern.cpp)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)| [C++](./cpp/power-of-three.cpp)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](./cpp/reverse-string.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [C++](./cpp/intersection-of-two-arrays-ii.cpp)|Easy|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [C++](./cpp/shuffle-an-array.cpp)|Medium|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [C++](./cpp/first-unique-character-in-a-string.cpp)|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [C++](./cpp/fizz-buzz.cpp)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [C++](./cpp/hamming-distance.cpp)|Easy|
