@@ -69,6 +69,7 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./cpp/subsets.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [C++](./cpp/word-search.cpp)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./cpp/remove-duplicates-from-sorted-array-ii.cpp)|Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./cpp/search-in-rotated-sorted-array-ii.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./cpp/remove-duplicates-from-sorted-list.cpp)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./cpp/merge-sorted-array.cpp)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./cpp/binary-tree-inorder-traversal.cpp)|Easy|
