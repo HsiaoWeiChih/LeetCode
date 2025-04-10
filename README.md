@@ -128,6 +128,7 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./cpp/add-digits.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./cpp/ugly-number.cpp)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [C++](./cpp/missing-number.cpp)|Easy|
+|274|[H-Index](https://leetcode.com/problems/h-index/)| [C++](./cpp/h-index.cpp)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./cpp/first-bad-version.cpp)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](./cpp/move-zeroes.cpp)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [C++](./cpp/word-pattern.cpp)|Easy|
