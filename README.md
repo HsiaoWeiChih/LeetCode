@@ -135,6 +135,7 @@
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)| [C++](./cpp/power-of-three.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](./cpp/reverse-string.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [C++](./cpp/intersection-of-two-arrays-ii.cpp)|Easy|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [C++](./cpp/insert-delete-getrandom-o1.cpp)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [C++](./cpp/shuffle-an-array.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [C++](./cpp/first-unique-character-in-a-string.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [C++](./cpp/fizz-buzz.cpp)|Easy|
