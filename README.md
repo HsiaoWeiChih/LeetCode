@@ -138,5 +138,6 @@
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [C++](./cpp/insert-delete-getrandom-o1.cpp)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [C++](./cpp/shuffle-an-array.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [C++](./cpp/first-unique-character-in-a-string.cpp)|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++](./cpp/is-subsequence.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [C++](./cpp/fizz-buzz.cpp)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [C++](./cpp/hamming-distance.cpp)|Easy|
