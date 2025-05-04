@@ -95,6 +95,7 @@
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./cpp/reverse-words-in-a-string.cpp)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)| [C++](./cpp/min-stack.cpp)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](./cpp/intersection-of-two-linked-lists.cpp)|Easy|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](./cpp/two-sum-ii-input-array-is-sorted.cpp)|Medium|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [C++](./cpp/excel-sheet-column-title.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](./cpp/majority-element.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](./cpp/excel-sheet-column-number.cpp)|Easy|
