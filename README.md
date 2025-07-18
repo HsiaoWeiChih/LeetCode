@@ -137,6 +137,7 @@
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./cpp/first-bad-version.cpp)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](./cpp/move-zeroes.cpp)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [C++](./cpp/word-pattern.cpp)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)| [C++](./cpp/nim-game.cpp)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)| [C++](./cpp/power-of-three.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](./cpp/reverse-string.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [C++](./cpp/intersection-of-two-arrays-ii.cpp)|Easy|
